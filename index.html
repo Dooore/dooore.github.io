@@ -6,13 +6,26 @@
 	<title>Ауе</title>
 	<style>
 		body {
-			background: #c7b39b url(imgs/background.png); /* Цвет фона и путь к файлу */
+			background: #c7b39b url(imgs/bg.png) 0px 0px; /* Цвет фона и путь к файлу */
+			background-repeat: no-repeat;
+			background-attachment: fixed;
+  			background-size: cover;
 			color: #fff; /* Цвет текста */
+
+		}
+
+		#text {
+  			position: absolute;
+  			top: 40%;
+  			left: 43%;
+  			font-size: 60px;
+  			color:#FFFFFF;
 		}
 	</style>
 
 </head>
 <body>
-	<p>My first site mazafaka</p>
+	<p id="text">DeniX</p>
+
 </body>
 </html>
