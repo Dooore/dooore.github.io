@@ -15,7 +15,7 @@ body {
      flex-direction: column;
      justify-content: center;
      align-items: center;
-     background: linear-gradient(rgba(10, 10, 10, .6), rgba(0, 0, 0, .9)), repeating-linear-gradient(0, transparent, transparent 2px, black 3px, black 3px), url('https://wallpapercave.com/wp/wp5986989.jpg');
+     background: linear-gradient(rgba(10, 10, 10, .6), rgba(0, 0, 0, .9)), repeating-linear-gradient(0, transparent, transparent 2px, black 3px, black 3px), url('https://wallpapercave.com/wp/wp4649533.png');
      background-size: cover;
      background-position: center;
      z-index: 1;
@@ -36,31 +36,7 @@ body {
   	color: #fff;
   	font-weight: 200;
   	font-size: 3.25em;
-	text-shadow: 
-		-0   -2px 0   #000000,
-		 0   -2px 0   #000000,
-		-0    2px 0   #000000,
-		 0    2px 0   #000000,
-		-2px -0   0   #000000,
-		 2px -0   0   #000000,
-		-2px  0   0   #000000,
-		 2px  0   0   #000000,
-		-1px -2px 0   #000000,
-		 1px -2px 0   #000000,
-		-1px  2px 0   #000000,
-		 1px  2px 0   #000000,
-		-2px -1px 0   #000000,
-		 2px -1px 0   #000000,
-		-2px  1px 0   #000000,
-		 2px  1px 0   #000000,
-		-2px -2px 0   #000000,
-		 2px -2px 0   #000000,
-		-2px  2px 0   #000000,
-		 2px  2px 0   #000000,
-		-2px -2px 0   #000000,
-		 2px -2px 0   #000000,
-		-2px  2px 0   #000000,
-		 2px  2px 0   #000000;
+	
 }
 
 .dud {
