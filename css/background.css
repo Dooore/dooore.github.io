@@ -15,7 +15,7 @@ body {
      flex-direction: column;
      justify-content: center;
      align-items: center;
-     background: linear-gradient(rgba(10, 10, 10, .6), rgba(0, 0, 0, .9)), repeating-linear-gradient(0, transparent, transparent 2px, black 3px, black 3px), url('https://wallpapercave.com/wp/wp4334648.jpg');
+     background: linear-gradient(rgba(10, 10, 10, .6), rgba(0, 0, 0, .9)), repeating-linear-gradient(0, transparent, transparent 2px, black 3px, black 3px), url('https://wallpapercave.com/wp/wp5986989.jpg');
      background-size: cover;
      background-position: center;
      z-index: 1;
@@ -35,7 +35,7 @@ body {
 	font-family: 'Raleway', sans-serif;
   	color: #fff;
   	font-weight: 200;
-  	font-size: 3.55em;
+  	font-size: 3.25em;
 	text-shadow: 
 		-0   -2px 0   #000000,
 		 0   -2px 0   #000000,
