@@ -77,7 +77,7 @@ var TextScramble = function () {
 // Example
 // ——————————————————————————————————————————————————
 
-var phrases = ['Dooore', 'Welcome to my GitHub Page'];
+var phrases = ['Dooore', 'Приветствую на моей странице GitHub'];
 
 var el = document.querySelector('.text');
 var fx = new TextScramble(el);
@@ -85,7 +85,7 @@ var fx = new TextScramble(el);
 var counter = 0;
 var next = function next() {
   fx.setText(phrases[counter]).then(function () {
-    setTimeout(next, 1500);
+    setTimeout(next, 3000);
   });
   counter = (counter + 1) % phrases.length;
 };
