@@ -28,14 +28,19 @@ ul {
   pointer-events: all;
 }
 .item {
-  color: #aaa;
+  font-family: 'Raleway', sans-serif;
+  padding: 1em 2em;
+  font-weight: 200;
+  margin: 0.4em 0;
+  font-size: 1.2em;
+  color: #909090;
   font-family: 'Raleway', sans-serif;
   list-style-type: none;
   text-decoration: none;
   position: relative;
   display: inline;
-  margin-left: 894px;
-  top: -395px;
+  margin-left: 835px;
+  top: -405px;
 }
 
 .item:hover {
