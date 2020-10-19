@@ -11,18 +11,26 @@ ul {
   padding: 0px;
   box-sizing: border-box;
 }
-.menu {
+.links {
   font-size: 24px;
   position: absolute;
-  text-align: center;
-  top: 53%;
+  text-align: left;
+  left: 93%;
+  top: 4%;
+}
+.buttons {
+  font-size: 24px;
+  position: absolute;
+  text-align: left;
+  left: 4%;
+  top: 4%;
 }
 .label {
   display: inline;
   cursor: pointer;
   pointer-events: all;
 }
-.item {
+.vk {
   font-family: 'Raleway', sans-serif;
   text-align: center;
   font-weight: 200;
@@ -36,7 +44,25 @@ ul {
   
 }
 
-.item:hover {
+.vk:hover {
+  color: #F5D033;
+  transition: .2s linear;
+}
+
+.home {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 200;
+  margin: 0.4em 0;
+  font-size: 1.2em;
+  color: #909090;
+  list-style-type: none;
+  text-decoration: none;
+  position: relative;
+  display: inline;
+  
+}
+
+.home:hover {
   color: #F5D033;
   transition: .2s linear;
 }
