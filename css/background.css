@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:200,100,400');
+
 html, body, h1 {
      padding: 0;
      margin: 0;
-     font-family: "Times New Roman", Georgia, Serif;
+     font-family: 'Lato', sans-serif;
 }
 body {
      background: #0a0a0a;
@@ -28,9 +30,37 @@ body {
   display: flex;
 }
 .text {
-  font-weight: 150;
-  font-size: 70px;
-  color: #fafafa;
+	font-family: 'Raleway', sans-serif;
+  	padding: 1em 2em;
+  	color: #fff;
+  	font-weight: 200;
+  	margin: 0.4em 0;
+  	font-size: 3.55em;
+	text-shadow: 
+		-0   -2px 0   #000000,
+		 0   -2px 0   #000000,
+		-0    2px 0   #000000,
+		 0    2px 0   #000000,
+		-2px -0   0   #000000,
+		 2px -0   0   #000000,
+		-2px  0   0   #000000,
+		 2px  0   0   #000000,
+		-1px -2px 0   #000000,
+		 1px -2px 0   #000000,
+		-1px  2px 0   #000000,
+		 1px  2px 0   #000000,
+		-2px -1px 0   #000000,
+		 2px -1px 0   #000000,
+		-2px  1px 0   #000000,
+		 2px  1px 0   #000000,
+		-2px -2px 0   #000000,
+		 2px -2px 0   #000000,
+		-2px  2px 0   #000000,
+		 2px  2px 0   #000000,
+		-2px -2px 0   #000000,
+		 2px -2px 0   #000000,
+		-2px  2px 0   #000000,
+		 2px  2px 0   #000000;
 }
 .dud {
   color: #757575;
