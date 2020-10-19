@@ -31,12 +31,11 @@ body {
 }
 .text {
 	font-family: 'Raleway', sans-serif;
-  	padding: 1em 2em;
   	color: #fff;
   	font-weight: 200;
-  	margin: 0.4em 0;
   	font-size: 3.55em;
-  	text-align: center;
+  	left: 50%;
+  	top: 50%;
 	text-shadow: 
 		-0   -2px 0   #000000,
 		 0   -2px 0   #000000,
