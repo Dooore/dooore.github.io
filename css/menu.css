@@ -11,41 +11,42 @@ ul {
   padding: 0px;
   box-sizing: border-box;
 }
-.links {
-  font-size: 24px;
-  position: absolute;
-  text-align: left;
-  left: 95%;
-  top: 4%;
-}
+
 .buttons {
   font-size: 24px;
   position: absolute;
-  text-align: left;
-  left: 2.5%;
-  top: 4%;
+  left: 3%;
+  top: 5.5%;
+  text-transform: uppercase;
+}
+
+.links {
+  font-size: 24px;
+  position: absolute;
+  left: 85%;
+  top: 5.5%;
+  text-transform: uppercase;
 }
 .label {
   display: inline;
   cursor: pointer;
   pointer-events: all;
 }
-.vk {
-  font-family: 'Raleway', sans-serif;
-  text-align: center;
-  font-weight: 200;
-  margin: 0.4em 0;
-  font-size: 1.2em;
+.item {
   color: #909090;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 300;
+  font-size: 1.2em;
   list-style-type: none;
   text-decoration: none;
   position: relative;
   display: inline;
-  
+  margin-left: 15px;
+  top: 3px;
 }
 
-.vk:hover {
-  color: #F5D033;
+.item:hover {
+  color: #4CBB17;
   transition: .2s linear;
 }
 
