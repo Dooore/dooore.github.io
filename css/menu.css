@@ -13,18 +13,19 @@ ul {
 }
 
 .buttons {
-  font-size: 24px;
+  font-size: 22px;
   position: absolute;
-  left: 86%;
+  left: 89.2%;
   top: 5.5%;
   text-transform: uppercase;
+  text-align: right;
 }
 
 .links {
-  font-size: 24px;
+  font-size: 22px;
   position: absolute;
-  left: 4%;
-  top: 5.5%;
+  text-align: center;
+  top: 3%;
   text-transform: uppercase;
 }
 .label {
@@ -36,7 +37,7 @@ ul {
   color: #909090;
   font-family: 'Raleway', sans-serif;
   font-weight: 300;
-  font-size: 1.2em;
+  font-size: 1.1em;
   list-style-type: none;
   text-decoration: none;
   position: relative;
@@ -54,13 +55,13 @@ ul {
   font-family: 'Raleway', sans-serif;
   font-weight: 200;
   margin: 0.4em 0;
-  font-size: 1.2em;
+  font-size: 1.1em;
   color: #909090;
   list-style-type: none;
   text-decoration: none;
   position: relative;
   display: inline;
-  
+  text-align: right;
 }
 
 .home:hover {
