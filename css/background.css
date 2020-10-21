@@ -28,8 +28,8 @@ body {
   justify-content: center;
   align-items: center;
   display: flex;
-  left: 50%;
-  top: 80%;
+  text-align: center;
+  top: 3%;
 }
 .text {
 	font-family: 'Raleway', sans-serif;
